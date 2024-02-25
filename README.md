@@ -26,10 +26,11 @@
 ---
 
 ## Contact With Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sergiogc1" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /> </a>
+  <a href="https://www.linkedin.com/in/sergiogc1" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /> </a>
   &nbsp; &nbsp;
-  <a href="http://www.instagram.com/serlliogc" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" height="48" /> </a>
+  <a href="http://www.instagram.com/serlliogc" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" height="48" /> </a>
 </div>
 
 ---
